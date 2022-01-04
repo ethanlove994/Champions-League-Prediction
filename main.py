@@ -1,9 +1,5 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
 import numpy as np
+# Note can only import these if they're in the same directory, otherwise I'll need to provide a path
 from Get_Ratings import ratings, exp_scores
 import time
 
